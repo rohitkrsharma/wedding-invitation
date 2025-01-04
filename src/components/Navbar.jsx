@@ -13,7 +13,7 @@ const Navbar = () => {
             March 6, 2025 | Let’s Celebrate Together
           </p>
           <img
-            src="./Images/welcome.png"
+            src="./Images/Welcome.png"
             alt="Welcome Illustration"
             className="block md:hidden mt-6 w-3/4"
           />
