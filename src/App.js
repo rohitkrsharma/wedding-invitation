@@ -6,6 +6,7 @@ import FamilyDetails from './components/FamilyDetails';
 import Footer from './components/Footer';
 import Greeting from './components/Greeting';
 import Navbar from './components/Navbar';
+import Mantras from './components/Mantras';
 
 const generateConfetti = () => {
   const container = document.getElementById("confetti-container");
@@ -34,6 +35,7 @@ function App() {
     <div className="relative">
       <div id="confetti-container" className="absolute inset-0 overflow-hidden z-50 pointer-events-none"></div>
       <Navbar />
+      <Mantras />
       <Greeting />
       <CountdownTimer />
       <EventDetails />
