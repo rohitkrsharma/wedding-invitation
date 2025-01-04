@@ -32,8 +32,8 @@ const FamilyDetails = () => {
             <ul className="list-disc font-semibold list-inside text-transparent bg-clip-text bg-gradient-to-r from-pink-700 via-purple-500 to-pink-500 font-poppins">
               <li>Mr. Shrinand Sharma (Father)</li>
               <li>Mrs. Panmati Sharma (Mother)</li>
+              <li>Mr. Abhijit Sharma (Brother)</li>
               <li>Mrs. pooja Sharma (Sister)</li>
-              <li>Mr. Abhijeet Sharma (Brother)</li>
               <li>Ms. Abhishek Sharma (Brother)</li>
             </ul>
           </div>
