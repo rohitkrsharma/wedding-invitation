@@ -1,0 +1,27 @@
+@keyframes confetti {
+  0% {
+    transform: translateY(0) rotate(0deg);
+    opacity: 1;
+  }
+  100% {
+    transform: translateY(100vh) rotate(360deg);
+    opacity: 0;
+  }
+}
+
+.confetti {
+  position: absolute;
+  width: 10px;
+  height: 10px;
+  background-color: var(--confetti-color, #ff0);
+  animation: confetti 3s linear infinite;
+  border-radius: 50%;
+}
+
+.confetti:nth-child(odd) {
+  --confetti-color: #ff6347;
+}
+
+.confetti:nth-child(even) {
+  --confetti-color: #1e90ff;
+}
