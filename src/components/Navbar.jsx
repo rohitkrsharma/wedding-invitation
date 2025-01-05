@@ -13,9 +13,9 @@ const Navbar = () => {
             March 6, 2025 | Let’s Celebrate Together
           </p>
           <img
-            src="./Images/Welcome.png"
+            src="./Images/m.webp"
             alt="Welcome Illustration"
-            className="block md:hidden mt-6 w-3/4"
+            className="block md:hidden mt-14 w-3/4 "
           />
         </div>
       </section>
