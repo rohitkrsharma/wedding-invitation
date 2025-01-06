@@ -23,6 +23,10 @@ const FamilyDetails = () => {
               <li>Mrs. Pushpanjali Sharma (Sister)</li>
               <li>Mr. Ranjan Sharma (Brother)</li>
               <li>Mr. Ravi Sharma (Brother)</li>
+              <li>Mr. Amrendra Sharma (Uncle)</li>
+              <li>Mrs. Sabita Sharma (Aunty)</li>
+              <li>Mr. Suraj Sharma (cousin brother)</li>
+              <li>Mr. Vivek Sharma (cousin brother)</li>
             </ul>
           </div>
           <div>
