@@ -7,6 +7,7 @@ import Footer from './components/Footer';
 import Greeting from './components/Greeting';
 import Navbar from './components/Navbar';
 import Mantras from './components/Mantras';
+import Venue from './components/Venue';
 
 const generateConfetti = () => {
   const container = document.getElementById("confetti-container");
@@ -39,6 +40,7 @@ function App() {
       <Greeting />
       <CountdownTimer />
       <EventDetails />
+      <Venue />
       <FamilyDetails />
       <Footer />
     </div>
