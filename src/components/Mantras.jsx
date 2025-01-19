@@ -33,32 +33,16 @@ const Mantras = () => {
         <div className="space-y-8 text-center">
           <div>
             <h3 className="text-2xl font-semibold text-gray-800 font-poppins mb-4">
-              Mangalashtak Mantras
+              Krishna Stuti
             </h3>
             <p className="text-lg font-poppins leading-relaxed text-gray-700 italic">
-              "त्वं कन्ये रत्नगर्भायां रूपेणाप्रतिमा भुवि।
-              यस्याः कृते जये भूत्वा रत्नसंपत्तिराप्स्यति॥"
+              ॐ कृष्णाय वासुदेवाय हरये परमात्मने ॥  प्रणतः क्लेशनाशाय गोविंदाय नमो नमः ॥
             </p>
             <p className="text-lg font-poppins leading-relaxed text-gray-700 mt-2">
-              *"O bride, you are a treasure of virtues and beauty incomparable
-              on this earth. With your arrival, wealth and prosperity will be
-              abundant."*
+              *"Salutations to Krishna, the son of Vasudeva, the remover of distress, the Supreme Being. I bow to Govinda, the one who brings liberation."*
             </p>
           </div>
-          <div>
-            <h3 className="text-2xl font-semibold text-gray-800 font-poppins mb-4">
-              Sapta Padi (Seven Steps Mantra)
-            </h3>
-            <p className="text-lg font-poppins leading-relaxed text-gray-700 italic">
-              "सखा सप्तपदा भव सप्तपदीत्वा सखायौ सप्तपदी भव। सख्यं ते गमेयम्
-              सख्यात्ते मायोषम् सप्तपदीत्वा सखायौ सप्तपदी भव॥"
-            </p>
-            <p className="text-lg font-poppins leading-relaxed text-gray-700 mt-2">
-              *"We have taken the seven steps together; henceforth, we shall be
-              friends for life. We shall live with mutual love, respect, and
-              harmony."*
-            </p>
-          </div>
+
           <div>
             <h3 className="text-2xl font-semibold text-gray-800 font-poppins mb-4">
               Vivaha Mantra

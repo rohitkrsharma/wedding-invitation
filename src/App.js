@@ -37,9 +37,9 @@ function App() {
       <div id="confetti-container" className="absolute inset-0 overflow-hidden z-50 pointer-events-none"></div>
       <Navbar />
       <Mantras />
-      <Greeting />
       <CountdownTimer />
       <EventDetails />
+      <Greeting />
       <Venue />
       <FamilyDetails />
       <Footer />
