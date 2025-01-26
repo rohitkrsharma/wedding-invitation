@@ -18,13 +18,14 @@ const FamilyDetails = () => {
             </h3>
             <ul className="list-disc font-semibold list-inside text-transparent bg-clip-text bg-gradient-to-r from-pink-700 via-purple-500 to-pink-500 font-poppins">
               <li>Dr. Paras Nath Sharma (Grandfather)</li>
+              <li>Mrs. Shanti Devi (Grandmother)</li>
               <li>Mr. Dharmendra Sharma (Father)</li>
               <li>Mrs. Sandhya Sharma (Mother)</li>
               <li>Mrs. Pushpanjali Sharma (Sister)</li>
               <li>Mr. Ranjan Sharma (Brother)</li>
               <li>Mr. Ravi Sharma (Brother)</li>
               <li>Mr. Amrendra Sharma (Uncle)</li>
-              <li>Mrs. Sabita Sharma (Aunty)</li>
+              <li>Mrs. Sabita Sharma (Aunt)</li>
               <li>Mr. Suraj Sharma (cousin brother)</li>
               <li>Mr. Vivek Sharma (cousin brother)</li>
             </ul>
@@ -39,6 +40,11 @@ const FamilyDetails = () => {
               <li>Mr. Abhijit Sharma (Brother)</li>
               <li>Mrs. pooja Sharma (Sister)</li>
               <li>Ms. Abhishek Sharma (Brother)</li>
+              <li>Mr. Ramchandra Sharma (Uncle)</li>
+              <li>Ms. Phulkanti Devi (Aunt)</li>
+              <li>Mr. Mukesh Sharma (cousin brother)</li>
+              <li>Mr. Sonu Sharma (cousin brother)</li>
+              <li>Mr. Vishal Sharma (cousin brother)</li>
             </ul>
           </div>
         </div>

@@ -10,6 +10,8 @@ module.exports = {
         chivo: ['Chivo', 'sans-serif'],
         playfair: ['Playfair Display', 'serif'],
         poppins: ['Poppins', 'sans-serif'],
+        weds: ["Sixtyfour Convergence", "serif"],
+        wedding: ["Agu Display", "serif"],
         roboto: ['Roboto', 'sans-serif'],
       },
     },
